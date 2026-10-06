@@ -1,0 +1,6 @@
+# Separate from the repo root requirements (those pin numpy<2 / opencv<4.12).
+# torch for RTX 50xx: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+ultralytics==8.4.171
+pyrealsense2==2.58.4.10922
+huggingface_hub
+lap
