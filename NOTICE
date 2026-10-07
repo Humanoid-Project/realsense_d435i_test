@@ -1,0 +1,8 @@
+RoboNex RealSense D435i Test
+Copyright 2026 RoboNex
+
+This product includes software developed by RoboNex.
+It uses the Intel RealSense SDK (pyrealsense2, Apache License 2.0) as an installed dependency; no SDK source is included.
+Intel RealSense is a trademark of Intel Corporation.
+
+The RoboNex name and logo are not licensed under the Apache License.
